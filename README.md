@@ -2,7 +2,7 @@
 
 ### Contact me ~
 
-[![](https://discord.c99.nl/widget/theme-4/769939285792653325.png)](https://discord.com/users/769939285792653325)
+[![](https://discord.c99.nl/widget/theme-5/769939285792653325.png)](https://discord.com/users/769939285792653325)
 
 ### What i work with ~
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
