@@ -24,5 +24,5 @@
   <br>
   <img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamsDev1&layout=compact&theme=dark&count_private=true"/>
   <br>
-  <img align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=damsdev"/> 
+  <!---<img align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=damsdev"/> --->
   <br>
