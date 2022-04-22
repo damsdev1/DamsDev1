@@ -5,6 +5,7 @@
 [![](https://discord.c99.nl/widget/theme-1/769939285792653325.png)](https://discord.com/users/769939285792653325)
 
 ### What i work with ~
+[![JavaScript](https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png)](https://github.com/DamsDev1?tab=repositories&q=&type=&language=javascript)
 <img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />
