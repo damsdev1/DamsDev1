@@ -1,8 +1,4 @@
-### Hi I'm DamsDev
-
-### Contact me ~
-
-[![](https://discord.c99.nl/widget/theme-1/769939285792653325.png)](https://discord.com/users/769939285792653325)
+### Hi I'm Damien Fajole 
 
 ### What i work with ~
 [<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=javascript)
