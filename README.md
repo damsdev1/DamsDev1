@@ -1,24 +1,18 @@
-### Hi I'm Damien Fajole 
+<div align="center">
+<img src="https://raw.githubusercontent.com/DamsDev1/DamsDev1/main/assets/home.webp" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=3000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&width=1300&height=140&lines=hello+hello;I'm+Damien%2C+a+weeb+developer+%3A3" width="70%" />
+<br><br>
+<pre>
+    💼 BSC @ Sup de Vinci • Full-stack dev • DevOps
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Cats lover
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
 
-### What i work with ~
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=javascript)
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=java)
-[<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=C%2B%2B)
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&q=topic:nodejs)
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=HTML)
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=CSS)
-[<img align="left" alt="PHP" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=PHP)
-[<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=)
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://github.com/DamsDev1?tab=repositories&q=&type=&language=)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/damien-fajole/)
+[![](https://img.shields.io/badge/valorant-FF4655)](https://tracker.gg/valorant/profile/riot/Vbbooy%233939/overview)
+[![](<https://img.shields.io/badge/X%20(Twitter)-000000>)](https://x.com/damsdev)
 
-<br>
-<br>
-  <summary>:zap: Github Stats</summary>
-  <br>
-  <img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=DamsDev1&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true"/>
-  <br>
-  <br>
-  <!---<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamsDev1&layout=compact&theme=dark&count_private=true&hide=css,html"/> --->
-  <br>
-  <!---<img align="left" alt="Wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=damsdev"/>  --->
-  <br>
+</div>
